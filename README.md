@@ -1,2 +1,4 @@
 # hello-bento
-My First Repository
+
+Hi Guys !!!
+I'm a newbie here. Please help me.
